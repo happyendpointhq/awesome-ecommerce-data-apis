@@ -293,6 +293,13 @@ Open an issue or a pull request.
 
 ---
 
+## Related lists
+
+- [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - property listings, transactions, and valuation data by country
+- [awesome-alternative-data](https://github.com/happyendpointhq/awesome-alternative-data) - the investment research angle, where retail pricing is a revenue signal
+
+---
+
 ## Maintained by
 
 Maintained by [Happy Endpoint](https://happyendpoint.com), which builds real-time
