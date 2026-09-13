@@ -237,6 +237,7 @@ Bulk files for analysis and model training.
 - [Kaggle ecommerce datasets](https://www.kaggle.com/datasets?search=ecommerce) - Mixed quality but useful for prototyping.
 - [Hugging Face product datasets](https://huggingface.co/datasets?search=product) - Increasingly where ML-ready commerce data lives.
 - [Happy Endpoint datasets](https://happyendpoint.com/datasets) - Retailer catalogue snapshots including IKEA US and Sephora US.
+- [Reboot Hub DJI listed-price dataset](https://reboot-hub.com/pages/reboot-hub-data) - Free CC BY 4.0 CSV/JSONL snapshot of 43 model-level aggregates from 251 catalog configurations in Q3 2026; one retailer's asking prices, not transactions, live stock, a price-history series, or a market-wide benchmark. No account required.
 
 ---
 
