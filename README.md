@@ -237,6 +237,7 @@ Bulk files for analysis and model training.
 - [Kaggle ecommerce datasets](https://www.kaggle.com/datasets?search=ecommerce) - Mixed quality but useful for prototyping.
 - [Hugging Face product datasets](https://huggingface.co/datasets?search=product) - Increasingly where ML-ready commerce data lives.
 - [Happy Endpoint datasets](https://happyendpoint.com/datasets) - Retailer catalogue snapshots including IKEA US and Sephora US.
+- [RecentProfit Data Research](https://recentprofit.com/data-research) - Free, MIT-licensed CSV and JSON snapshots of U.S. brand discounts, shipping, returns, warranties, and other purchase conditions with official-source citations.
 
 ---
 
