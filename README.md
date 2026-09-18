@@ -237,6 +237,7 @@ Bulk files for analysis and model training.
 - [Kaggle ecommerce datasets](https://www.kaggle.com/datasets?search=ecommerce) - Mixed quality but useful for prototyping.
 - [Hugging Face product datasets](https://huggingface.co/datasets?search=product) - Increasingly where ML-ready commerce data lives.
 - [Happy Endpoint datasets](https://happyendpoint.com/datasets) - Retailer catalogue snapshots including IKEA US and Sephora US.
+- [Dupedex fragrance catalogue census](https://dupedex.com/research/fragrance-dupe-market-census-2026/) - Free JSON/CSV aggregate tables for six fragrance clone houses: catalogue counts, price medians, bottle sizes and overlap in named originals. CC BY 4.0; observed August 20-September 15, 2026; no account required. Not a live API or product-level data dump.
 
 ---
 
