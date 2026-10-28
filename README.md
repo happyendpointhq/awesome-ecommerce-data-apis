@@ -158,7 +158,7 @@ platform.
 - [API2Cart](https://api2cart.com/) - Unified API across 70+ platforms and marketplaces including Shopify, Magento, WooCommerce, BigCommerce, Etsy, Shopee, and TikTok Shop. Built for software vendors serving many merchants.
 - [Codisto](https://www.codisto.com/) - Multichannel listing and inventory sync.
 - [Rutter](https://www.rutter.com/) - Unified commerce API covering ecommerce, accounting, and payments.
-- [FastAF](https://fastaf.co/docs/) - Third-party scraping API for Amazon and eBay product data plus web search, pay-per-call via x402 (USDC on Base, no account) or 2 free calls after email verification. Unofficial; not affiliated with the marketplaces.
+- [FastAF](https://fastaf.co/?utm_source=awesome-ecommerce-data-apis&utm_medium=listing&utm_campaign=seo-backlinks) - Scraping, Google Shopping, eBay and Walmart public product data plus web search as JSON for AI agents; [JSON Schema extract API](https://fastaf.co/apis/extract-api/) for any product page. API key or x402 pay-per-call (USDC on Base); only 200 responses are charged. 500 free credits every month after email verification (not on x402). Unofficial; not affiliated with the marketplaces. [Docs](https://fastaf.co/docs/)
 
 ---
 
