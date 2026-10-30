@@ -168,6 +168,7 @@ Competitive pricing and history. Almost all of this is third-party.
 - [Keepa](https://keepa.com/#!api) - Amazon price history, going back years. The deepest historical Amazon dataset available, and the standard answer for Amazon price history.
 - [Rainforest API](https://www.rainforestapi.com/) - Amazon product, review, and search data. No affiliate account required.
 - [Canopy API](https://www.canopyapi.co/) - Amazon product data, pricing, and reviews via GraphQL.
+- [Pangolinfo Amazon Scraper API](https://docs.pangolinfo.com/en-api-reference/amazonApi/submit) - Amazon product, keyword search, category, seller, Best Sellers, and New Releases data. Includes 60 free credits per month; paid tiers are available.
 - [Zinc API](https://zincapi.com/) - Amazon and Walmart pricing, plus programmatic ordering.
 - [Netrows](https://www.netrows.com/) - Amazon product data without affiliate requirements.
 - [Prisync](https://prisync.com/) - Competitor price tracking aimed at retailers rather than developers.
