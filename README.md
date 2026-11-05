@@ -325,7 +325,7 @@ excellent, and you should try it before paying anyone for grocery data.
 
 - Catalogue: [happyendpoint.com/library](https://happyendpoint.com/library)
 - Datasets: [happyendpoint.com/datasets](https://happyendpoint.com/datasets)
-- Contact: happyendpointhq@gmail.com
+- Contact: hello@happyendpoint.com
 
 ## Licence
 
