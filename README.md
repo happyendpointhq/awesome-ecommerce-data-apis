@@ -170,6 +170,7 @@ Competitive pricing and history. Almost all of this is third-party.
 - [Canopy API](https://www.canopyapi.co/) - Amazon product data, pricing, and reviews via GraphQL.
 - [Zinc API](https://zincapi.com/) - Amazon and Walmart pricing, plus programmatic ordering.
 - [Netrows](https://www.netrows.com/) - Amazon product data without affiliate requirements.
+- [Nexscope](https://www.nexscope.ai/?co-from=awesome-ecommerce-data-apis) - Amazon and marketplace product data via REST/OpenAPI and a remote MCP for agents. Self-serve API key with trial credits; then paid. Docs: https://www.nexscope.ai/api-docs?co-from=awesome-ecommerce-data-apis
 - [Prisync](https://prisync.com/) - Competitor price tracking aimed at retailers rather than developers.
 - [Price2Spy](https://www.price2spy.com/) - Price monitoring and repricing.
 
