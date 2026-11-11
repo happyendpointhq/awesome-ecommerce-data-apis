@@ -98,6 +98,7 @@ one.
 - [Best Buy Developer API](https://developer.bestbuy.com/) - Free products, stores, and categories API. Unusually generous, and often overlooked.
 - [Rakuten](https://webservice.rakuten.co.jp/) - Japanese marketplace, free API with registration.
 - [AliExpress Open Platform](https://openservice.aliexpress.com/) - Affiliate and dropshipping APIs.
+- [Noon API (Happy Endpoint)](https://github.com/happyendpointhq/noon-api) - Noon offers no public product API for shoppers. Prices, every seller competing for the Buy Box, offers and reviews for the UAE, Saudi Arabia and Egypt. Runnable examples in the repo.
 
 ---
 
