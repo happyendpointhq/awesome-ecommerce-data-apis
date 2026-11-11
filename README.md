@@ -173,6 +173,7 @@ Competitive pricing and history. Almost all of this is third-party.
 - [Netrows](https://www.netrows.com/) - Amazon product data without affiliate requirements.
 - [Prisync](https://prisync.com/) - Competitor price tracking aimed at retailers rather than developers.
 - [Price2Spy](https://www.price2spy.com/) - Price monitoring and repricing.
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. We benchmark the Amazon, Walmart, eBay and Google Shopping product APIs and put each plan's price and score on our website. Open API, no key: [api.datacircle.dev/v1](https://api.datacircle.dev/v1).
 
 ---
 
