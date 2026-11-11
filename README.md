@@ -212,6 +212,7 @@ August 2026 and moves often.
 - [Oxylabs](https://oxylabs.io/products/scraper-api/ecommerce) - Dedicated ecommerce scraper API. Residential proxies from around $8/GB.
 - [ScraperAPI](https://www.scraperapi.com/) - Simple proxy and rendering, from around $49/month for 100k credits. Best value at low volume on a single target.
 - [Zyte](https://www.zyte.com/) - Pay-as-you-go with difficulty tiers.
+- [Firecrawl](https://docs.firecrawl.dev/introduction?utm_source=awesome-ecommerce-data-apis&utm_medium=integration) - API that scrapes product pages into Markdown or into JSON that follows a schema you define, such as name, price, and availability. Also covers web search, mapping a store's URLs or crawling the whole catalogue, and change tracking between scrapes for price monitoring. Self-serve API key, free plan with 1,000 credits a month, paid plans from $19/month for 5,000 credits.
 - [Crawlee](https://crawlee.dev/) - Free open source scraping library, if you want to run your own infrastructure.
 
 ---
