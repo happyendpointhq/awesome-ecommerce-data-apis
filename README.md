@@ -92,7 +92,9 @@ one.
 
 - [Amazon Creators API](https://affiliate-program.amazon.com/creatorsapi/docs/en-us/paapiv5-deprecation) - Official successor to PA-API. Requires an active Associates account with recent qualifying sales. Affiliate use cases only.
 - [Amazon Selling Partner API](https://developer-docs.amazon.com/sp-api/) - For sellers managing their own listings, inventory, and orders. Not a catalogue browsing API.
+- [Amazon Data API (Apiwren)](https://apiwren.com/docs) - Third-party JSON API for product details, search, review highlights and seller data across 23 Amazon marketplaces. Requires a RapidAPI account, subscription and API key, not an Amazon Associates account. Free tier of 100 requests per month; paid plans available.
 - [eBay Developers Program](https://developer.ebay.com/) - Genuinely open and self-serve. Browse API covers active listings; Marketplace Insights covers sold prices. One of the better official marketplace APIs.
+- [eBay Data API (Apiwren)](https://apiwren.com/ebay-api) - Third-party JSON API for search, item details, barcode lookup and seller data across 14 eBay sites. Active listings only; no sold or completed listings. Requires a RapidAPI account, subscription and API key, not an eBay developer account. Free tier of 50 requests per month; paid plans available.
 - [Etsy Open API](https://developers.etsy.com/) - Self-serve with an application step. Good for handmade and vintage categories.
 - [Walmart Developer Portal](https://developer.walmart.com/) - Affiliate and marketplace-seller APIs. Catalogue access is limited compared to eBay.
 - [Best Buy Developer API](https://developer.bestbuy.com/) - Free products, stores, and categories API. Unusually generous, and often overlooked.
