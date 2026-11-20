@@ -173,6 +173,7 @@ Competitive pricing and history. Almost all of this is third-party.
 - [Netrows](https://www.netrows.com/) - Amazon product data without affiliate requirements.
 - [Prisync](https://prisync.com/) - Competitor price tracking aimed at retailers rather than developers.
 - [Price2Spy](https://www.price2spy.com/) - Price monitoring and repricing.
+- [DeepScout](https://docs.deepscout.ai/api) - Self-serve API and MCP server that scrapes the full catalogue of an e-shop and matches the same products across stores, also without shared EANs. Prepaid; matching €7 per 1,000 products.
 
 ---
 
@@ -212,6 +213,7 @@ August 2026 and moves often.
 - [Oxylabs](https://oxylabs.io/products/scraper-api/ecommerce) - Dedicated ecommerce scraper API. Residential proxies from around $8/GB.
 - [ScraperAPI](https://www.scraperapi.com/) - Simple proxy and rendering, from around $49/month for 100k credits. Best value at low volume on a single target.
 - [Zyte](https://www.zyte.com/) - Pay-as-you-go with difficulty tiers.
+- [DeepScout](https://docs.deepscout.ai/api) - Ecommerce-specific scraping API and MCP server: names, prices, stock, images and EANs from any e-shop, including sites behind anti-bot protection. Free site analysis with up to 1,000 sample products (10 sites a month), then prepaid from €0.40 per 1,000 products depending on site difficulty.
 - [Crawlee](https://crawlee.dev/) - Free open source scraping library, if you want to run your own infrastructure.
 
 ---
