@@ -99,6 +99,8 @@ one.
 - [Rakuten](https://webservice.rakuten.co.jp/) - Japanese marketplace, free API with registration.
 - [AliExpress Open Platform](https://openservice.aliexpress.com/) - Affiliate and dropshipping APIs.
 - [Noon API (Happy Endpoint)](https://github.com/happyendpointhq/noon-api) - Noon offers no public product API for shoppers. Prices, every seller competing for the Buy Box, offers and reviews for the UAE, Saudi Arabia and Egypt. Runnable examples in the repo.
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
 
 ---
 
